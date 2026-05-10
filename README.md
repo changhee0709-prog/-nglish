@@ -1,2 +1,0 @@
-# -nglish
-edu english
